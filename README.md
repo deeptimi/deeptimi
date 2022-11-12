@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deeptimi
+- 👋 Hi, I’m Deepti Mishra
 - 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning software development stuffs , basically dsa
 - 💞️ I’m looking to collaborate on SD projects and data science projects
