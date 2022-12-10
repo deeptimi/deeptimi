@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on SD projects and data science projects
 - 📫 How to reach me - mail: deepti6789m@gmail.com
 -                       instagram - https://www.instagram.com/deepti.mishr._/
--                       
+-  And I am interested in meeting and interacting with enthusiasts and polymaths. 📧                     
 
 <!---
 deeptimi/deeptimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
