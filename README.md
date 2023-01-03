@@ -1,4 +1,5 @@
 ![giphy (1)](https://user-images.githubusercontent.com/79036991/210358441-6d18c928-2638-4899-9dca-e05c6d877776.gif)
+
 - 👋 Hi, I’m Deepti Mishra
 - 👀 I’m interested in software development,deep learning and data science & robotics
 - 🌱 I’m currently learning software development stuffs , basically dsa
