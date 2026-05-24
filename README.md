@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on SD projects and data science projects
 - 📫 How to reach me?
 + [Mail](deepti6789m@gmail.com)  
-+ [Instagram](https://www.instagram.com/deepti.mishr._/)
++ [Instagram](https://www.instagram.com/itsdemiii._/)
 -  And I am interested in meeting and interacting with enthusiasts and polymaths. 📧                     
 
 <!---
